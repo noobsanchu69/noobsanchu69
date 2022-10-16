@@ -1,10 +1,38 @@
-- 👋 Hi, I’m Sanchayeeta Saha!
-- 👀 I’m interested in Software Development with .NET Framework.
-- 🌱 I’m currently working as a .NET Developer at Quantorix Technology Pvt. Ltd.
-- 💞️ I’m looking to collaborate with like-minded people for projects.
-- 📫 Reach me via email at: sanchayeeta7@gmail.com
+# 👋 Hi, I’m Sanchayeeta Saha!
+### I’m currently working as a .NET Developer at Quantorix Technology Pvt. Ltd.
 
-<!---
-noobsanchu69/noobsanchu69 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<table style="width: 100%; border: none;">
+  <h2> Work Experience </h2>
+  <tr>
+    <th> 💼 Designation </th>
+    <th> 🏢 Organization </th>
+    <th> ⏰ Timeline </th>
+  </tr>
+  <tr>
+    <td> Fullstack Developer </td>
+    <td> Quantorix Technology Pvt. Ltd. </td>
+    <td> August 2022 - Present </td>
+  </tr>
+</table>
+
+## 🏆 Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=noobsanchu69&theme=monokai&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Profile Statistics
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/?username=noobsanchu69&count_private=true&theme=merko&show_icons=true">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noobsanchu69&theme=merko&langs_count=10&layout=compact">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=noobsanchu69&theme=merko">
+    </td>
+  </tr>
+</table>
