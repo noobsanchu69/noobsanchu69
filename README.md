@@ -17,7 +17,7 @@
 
 ## 🏆 Github Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=noobsanchu69&theme=monokai&margin-w=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=noobsanchu69&theme=monokai&margin-w=15&no-bg=true&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Profile Statistics
 
